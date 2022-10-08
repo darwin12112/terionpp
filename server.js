@@ -89,7 +89,7 @@ app.post('/response', async function (req, res) {
           expiresIn: "1h",
         }
       );
-      return res.redirect("https://www.predictionmall.com/api/response-recharge/" + token);
+      return res.redirect("https://www.terion.club/api/response-recharge/" + token);
     }
     
     res.redirect("/");
