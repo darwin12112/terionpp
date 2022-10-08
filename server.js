@@ -58,12 +58,12 @@ app.post('/recharge', async (req, res) => {
     var hash = cryp.digest('hex');
       // console.log(hash);
       // console.log(JSON.stringify(hash));
-    res.send({ 'hash': hash, "recharging": recharging, key: process.env.PAYU_KEY, url: process.env.APP_URL + "" });
+    res.send({ 'hash': hash, "recharging": recharging, key: process.env.PAYU_KEY, url: process.env.APP_URL + "/home" });
   }
 
 });
 
-app.post('', async function (req, res) {
+app.post('home', async function (req, res) {
   var pd = req.body;
   //Generate new Hash 
   var hashString = process.env.PAYU_SALT + '|' + pd.status + '|||||||||||' + pd.email + '|' + pd.firstname + '|' + pd.productinfo + '|' + pd.amount + '|' + pd.txnid + '|' + process.env.PAYU_KEY;
