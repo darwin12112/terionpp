@@ -63,7 +63,7 @@ app.post('/recharge', async (req, res) => {
 
 });
 
-app.post('/response', async function (req, res) {
+app.get('/response', async function (req, res) {
   var pd = req.body;
   //Generate new Hash 
   var hashString = process.env.PAYU_SALT + '|' + pd.status + '|||||||||||' + pd.email + '|' + pd.firstname + '|' + pd.productinfo + '|' + pd.amount + '|' + pd.txnid + '|' + process.env.PAYU_KEY;
