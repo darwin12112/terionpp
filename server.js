@@ -58,7 +58,7 @@ app.post('/recharge', async (req, res) => {
     var hash = cryp.digest('hex');
       // console.log(hash);
       // console.log(JSON.stringify(hash));
-    res.send({ 'hash': hash, "recharging": recharging, key: process.env.PAYU_KEY, url: "https://www.payout1.in/response" });
+    res.send({ 'hash': hash, "recharging": recharging, key: process.env.PAYU_KEY, url: "https://www.payout10.co.in/response" });
   }
 
 });
@@ -89,7 +89,7 @@ app.post('/response', async function (req, res) {
           expiresIn: "1h",
         }
       );
-      return res.redirect("https://www.terion.club/api/response-recharge/" + token);
+      return res.redirect("https://www.booe.in/api/response-recharge/" + token);
     }
     
     res.redirect("/");
