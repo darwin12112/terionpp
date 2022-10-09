@@ -58,7 +58,7 @@ app.post('/recharge', async (req, res) => {
     var hash = cryp.digest('hex');
       // console.log(hash);
       // console.log(JSON.stringify(hash));
-    res.send({ 'hash': hash, "recharging": recharging, key: process.env.PAYU_KEY, url: "http://134.209.145.252:7777/response" });
+    res.send({ 'hash': hash, "recharging": recharging, key: process.env.PAYU_KEY, url: "https://www.payout1.in/response" });
   }
 
 });
