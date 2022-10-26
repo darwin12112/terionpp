@@ -6,7 +6,7 @@
         "title": "Floral Dress",
         "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
         "availableSizes": ["X", "L", "XL", "XXL"],
-        "price": 658
+        "price": 500
       },
       {
         "_id": "dress2",
@@ -14,7 +14,7 @@
         "title": "Yellow Track Suit",
         "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
         "availableSizes": ["X", "M", "L"],
-        "price": 1235
+        "price": 100
       },
       {
         "_id": "dress3",
@@ -22,7 +22,7 @@
         "title": "Red Dots Dress",
         "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
         "availableSizes": ["X", "M", "L"],
-        "price": 963
+        "price": 5000
       },
       {
         "_id": "dress4",
@@ -30,7 +30,7 @@
         "title": "White Blouse",
         "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
         "availableSizes": ["XL"],
-        "price": 856
+        "price": 10
       },
       {
         "_id": "dress5",
@@ -38,7 +38,7 @@
         "title": "Striped Sweater",
         "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
         "availableSizes": ["X", "L", "XL"],
-        "price": 1090
+        "price": 500
       },
       {
         "_id": "dress6",
@@ -46,7 +46,7 @@
         "title": "Midi tea dress in blue and red spot",
         "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
         "availableSizes": ["XL", "XXL"],
-        "price": 1203
+        "price": 1000
       },
       {
         "_id": "dress7",
@@ -54,7 +54,7 @@
         "title": "Camo Down Vest",
         "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
         "availableSizes": ["X", "L", "XL"],
-        "price": 1009
+        "price": 2000
       },
       {
         "_id": "dress8",
@@ -62,7 +62,7 @@
         "title": "Burgundy T-shirt",
         "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
         "availableSizes": ["XL", "XXL"],
-        "price": 532
+        "price": 10000
       },
       {
         "_id": "dress9",
@@ -70,7 +70,7 @@
         "title": "Jean Long Sleeve",
         "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
         "availableSizes": ["XL", "XXL"],
-        "price": 686
+        "price": 15000
       }
     ]
   }
