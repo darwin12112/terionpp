@@ -6,7 +6,7 @@
         "title": "Floral Dress",
         "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
         "availableSizes": ["X", "L", "XL", "XXL"],
-        "price": 1
+        "price": 500
       },
       {
         "_id": "dress2",
@@ -14,7 +14,7 @@
         "title": "Yellow Track Suit",
         "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
         "availableSizes": ["X", "M", "L"],
-        "price": 100
+        "price": 1000
       },
       {
         "_id": "dress3",
@@ -30,7 +30,7 @@
         "title": "White Blouse",
         "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
         "availableSizes": ["XL"],
-        "price": 10
+        "price": 2000
       },
       {
         "_id": "dress5",
@@ -62,7 +62,7 @@
         "title": "Burgundy T-shirt",
         "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
         "availableSizes": ["XL", "XXL"],
-        "price": 10000
+        "price": 100
       },
       {
         "_id": "dress9",
@@ -70,7 +70,7 @@
         "title": "Jean Long Sleeve",
         "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
         "availableSizes": ["XL", "XXL"],
-        "price": 15000
+        "price": 1000
       }
     ]
   }
