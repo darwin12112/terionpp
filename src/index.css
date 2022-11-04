@@ -272,5 +272,7 @@ footer a{
 footer a:hover{
   color:#808080;
   text-decoration: none;
+  max-width: 99rem;
+  max-height: 99rem;
 
 }
