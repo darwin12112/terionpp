@@ -48,7 +48,7 @@ main {
 
 footer {
   grid-area: footer;
-  background-color: #000000.;
+  background-color: #000000;
   color: #ffffff;
   display: flex;
   justify-content: center;
