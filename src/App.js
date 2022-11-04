@@ -224,7 +224,7 @@ class App extends React.Component {
           </div>
         </main>
         <footer><a href="/about_us.htm" target="about"><b> About Us </b> </a> &nbsp; &nbsp; &nbsp;
-        <a <b href="/contact_us.htm" target="contact_us">Contact US</b> &nbsp; &nbsp; &nbsp;
+        <a href="/contact_us.htm" target="contact_us">Contact US</a> &nbsp; &nbsp; &nbsp;
 		 <a href="/shipping_Policy.htm" target="shipping_Policy">Shipping Policy</a> &nbsp; &nbsp; &nbsp;
         <a href="/privacy_Policy.htm" target="privacy_Policy">Privacy Policy</a> &nbsp; &nbsp; &nbsp;
         <a href="/Refund_Policy.htm" target="Refund_Policy">Refund Policy</a> &nbsp; &nbsp; &nbsp;
