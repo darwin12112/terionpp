@@ -48,8 +48,8 @@ main {
 
 footer {
   grid-area: footer;
-  background-color: #e90d0d;
-  color: #fff;
+  background-color: #000000.;
+  color: #ffffff;
   display: flex;
   justify-content: center;
   align-items: center;
