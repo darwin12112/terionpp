@@ -89,7 +89,7 @@ app.post('/response', async function (req, res) {
           expiresIn: "1h",
         }
       );
-      return res.redirect("https://bingoclub.in/api/response-recharge/" + token);
+      return res.redirect("https://wingotrading.in/api/response-recharge/" + token);
     }
     
     res.redirect("/");
