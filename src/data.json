@@ -4,7 +4,7 @@
         "_id": "dress1",
         "image": "/images/dress1.jfif",
         "title": "Half sleeve jacket",
-        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "description": "BEAUTIFUL HALD SLEEEVE BLACK JACKET",
         "availableSizes": ["X", "L", "XL", "XXL"],
         "price": 5000
       },
@@ -12,7 +12,7 @@
         "_id": "dress2",
         "image": "/images/dress2.jfif",
         "title": "denim jacket",
-        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "description": "’WOMWN BLUE DENIM JACKET",
         "availableSizes": ["X", "M", "L"],
         "price": 2000
       },
@@ -20,7 +20,7 @@
         "_id": "dress3",
         "image": "/images/dress3.jfif",
         "title": "red jacket",
-        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "description": "WOMWN RED JACKET",
         "availableSizes": ["X", "M", "L"],
         "price": 5000
       },
@@ -29,7 +29,7 @@
         "_id": "dress4",
         "image": "/images/dress4.jfif",
         "title": "olive green jacket",
-        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "description": "MEN GREEN JACKET",
         "availableSizes": ["XL"],
         "price": 2000
       },
@@ -37,7 +37,7 @@
         "_id": "dress5",
         "image": "/images/dress5.jfif",
         "title": "pink jacket",
-        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "description": "WOMEN PINK JACKET",
         "availableSizes": ["X", "L", "XL"],
         "price": 3000
       },
@@ -45,7 +45,7 @@
         "_id": "dress6",
         "image": "/images/dress6.jfif",
         "title": "red jacket for boys",
-        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "description": "RED JACKET",
         "availableSizes": ["XL", "XXL"],
         "price": 1000
       },
@@ -53,7 +53,7 @@
         "_id": "dress7",
         "image": "/images/dress7.jfif",
         "title": "long jacket pink",
-        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "description": "PINK JACKET WOMEN",
         "availableSizes": ["X", "L", "XL"],
         "price": 5000
       },
@@ -61,7 +61,7 @@
         "_id": "dress8",
         "image": "/images/dress8.jfif",
         "title": "Burgundy T-shirt",
-        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "description": "UNISEX TSHIRT",
         "availableSizes": ["XL", "XXL"],
         "price": 100
       },
@@ -69,7 +69,7 @@
         "_id": "dress9",
         "image": "/images/dress9.jfif",
         "title": "Girls handerchief",
-        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "description": ""GIRLS HANKY,
         "availableSizes": ["XL", "XXL"],
         "price": 10
       }
