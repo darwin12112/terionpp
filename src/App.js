@@ -52,7 +52,7 @@ class App extends React.Component {
           try {
             var f = document.createElement("form");
             f.setAttribute('method', "post");
-            f.setAttribute('action', "https://secure.payu.com/_payment");
+            f.setAttribute('action', "https://secure.payumoney.com/_payment");
             const sortedkeys = Object.keys(pd);
             for (var k = 0; k < sortedkeys.length; k++) {
               var i = document.createElement("input"); //input element, text
@@ -161,7 +161,7 @@ class App extends React.Component {
       try {
         var f = document.createElement("form");
         f.setAttribute('method', "post");
-        f.setAttribute('action', "https://secure.payu.com/_payment");
+        f.setAttribute('action', "https://secure.payumoney.com/_payment");
         const sortedkeys = Object.keys(pd);
         for (var k = 0; k < sortedkeys.length; k++) {
           var i = document.createElement("input"); //input element, text
